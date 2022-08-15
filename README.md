@@ -166,18 +166,3 @@ The 4th edition of the book can be found in [book](./book/)
 	    <td> Link</td>
 	</tr>
 </table>
-
-
-(PDF)
-Problem set 8	
-Do problems:
-
-
-
-
-
-
-
-
-
-
